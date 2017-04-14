@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="25dp"
+    android:layout_width="match_parent"
+    android:textAppearance="@color/cast_libraries_material_featurehighlight_text_body_color"
+    android:textStyle="normal"
+    android:textSize="@dimen/cast_libraries_material_featurehighlight_center_horizontal_offset">
+
+
+</TextView>
